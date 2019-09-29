@@ -102,6 +102,7 @@
                 <version>${scoverage.plugin.version}</version>
                 <configuration>
                     <aggregate>true</aggregate>
+                    <scalacPluginVersion>1.4.0</scalacPluginVersion>
                 </configuration>
             </plugin>
         </plugins>
